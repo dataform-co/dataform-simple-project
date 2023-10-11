@@ -1,0 +1,6 @@
+{
+  "name": "new-maf-execution",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
